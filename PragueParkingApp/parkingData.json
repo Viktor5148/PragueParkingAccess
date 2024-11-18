@@ -1,0 +1,14 @@
+[
+  {
+    "RegistrationNumber": "CAR123",
+    "VehicleType": "CAR",
+    "ParkingTime": "2024-11-18T05:31:50.9827882+01:00",
+    "ParkingSpot": 0
+  },
+  {
+    "RegistrationNumber": "CAR123",
+    "VehicleType": "CAR",
+    "ParkingTime": "2024-11-18T05:31:09.6821381+01:00",
+    "ParkingSpot": 1
+  }
+]
